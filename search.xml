@@ -1,37 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/hjtech/2020/09/15/hello-world/</url>
-    <content><![CDATA[<p>欢迎来到 <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! 这是你的第一篇 post. 点击 <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> 获取更多. 如果你在使用hexo的过程中遇到任何问题，你可以去<a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a>寻找解决方案，又或者你可以到  <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>去寻求帮助.</p>
-<h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一篇新post"><a href="#创建一篇新post" class="headerlink" title="创建一篇新post"></a>创建一篇新post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>更多信息: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<a id="more"></a>
-<h3 id="开启本地服务器"><a href="#开启本地服务器" class="headerlink" title="开启本地服务器"></a>开启本地服务器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>更多信息: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<h3 id="删除静态文件"><a href="#删除静态文件" class="headerlink" title="删除静态文件"></a>删除静态文件</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo clean</span><br></pre></td></tr></table></figure>
-
-<p>更多信息: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Clean</a></p>
-<h3 id="部署到云端网站"><a href="#部署到云端网站" class="headerlink" title="部署到云端网站"></a>部署到云端网站</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>更多信息: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-<center>
-<div style="display:inline-block;"><img src="/hjtech/images/com.png" class width="550"> </div>
-</center>
-
-]]></content>
-      <tags>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>test</title>
     <url>/hjtech/2020/09/15/test/</url>
-    <content><![CDATA[<p>这是未了测试</p>
+    <content><![CDATA[<p>全新的开始</p>
 <center>
 <div style="display:inline-block;"><img src="/hjtech/images/com.png" class width="550"> </div>
 </center>
@@ -84,6 +56,34 @@
       <tags>
         <tag>Matlab</tag>
         <tag>Simulink</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>欢迎来到Hexo!</title>
+    <url>/hjtech/2020/03/01/2020-03-01%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0Hexo/</url>
+    <content><![CDATA[<p>欢迎来到 <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! 这是你的第一篇 post. 点击 <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> 获取更多. 如果你在使用hexo的过程中遇到任何问题，你可以去<a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a>寻找解决方案，又或者你可以到  <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>去寻求帮助.</p>
+<h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一篇新post"><a href="#创建一篇新post" class="headerlink" title="创建一篇新post"></a>创建一篇新post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>更多信息: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<a id="more"></a>
+<h3 id="开启本地服务器"><a href="#开启本地服务器" class="headerlink" title="开启本地服务器"></a>开启本地服务器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>更多信息: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<h3 id="删除静态文件"><a href="#删除静态文件" class="headerlink" title="删除静态文件"></a>删除静态文件</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo clean</span><br></pre></td></tr></table></figure>
+
+<p>更多信息: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Clean</a></p>
+<h3 id="部署到云端网站"><a href="#部署到云端网站" class="headerlink" title="部署到云端网站"></a>部署到云端网站</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>更多信息: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+<center>
+<div style="display:inline-block;"><img src="/hjtech/images/com.png" class width="550"> </div>
+</center>
+
+]]></content>
+      <tags>
+        <tag>Hexo</tag>
       </tags>
   </entry>
 </search>
