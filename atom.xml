@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HJTech</title>
+  
+  <subtitle>For Future</subtitle>
+  <link href="/hjtech/atom.xml" rel="self"/>
+  
+  <link href="http://lotzxj.gitee.io/hjtech/"/>
+  <updated>2020-09-15T15:19:38.864Z</updated>
+  <id>http://lotzxj.gitee.io/hjtech/</id>
+  
+  <author>
+    <name>Lot.z</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://lotzxj.gitee.io/hjtech/2020/09/15/hello-world/"/>
+    <id>http://lotzxj.gitee.io/hjtech/2020/09/15/hello-world/</id>
+    <published>2020-09-15T15:19:38.864Z</published>
+    <updated>2020-09-15T15:19:38.864Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎来到 <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! 这是你的第一篇 post. 点击 <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> 获取更多. 如果你在使用hexo的过程中遇到任何问题，你可以去<a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a>寻找解决方案，又或者你可以到  <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>去寻求帮助.</p><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一篇新post"><a href="#创建一篇新post" class="headerlink" title="创建一篇新post"></a>创建一篇新post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><a id="more"></a><h3 id="开启本地服务器"><a href="#开启本地服务器" class="headerlink" title="开启本地服务器"></a>开启本地服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><h3 id="删除静态文件"><a href="#删除静态文件" class="headerlink" title="删除静态文件"></a>删除静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Clean</a></p><h3 id="部署到云端网站"><a href="#部署到云端网站" class="headerlink" title="部署到云端网站"></a>部署到云端网站</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p><center><div style="display:inline-block;"><img src="/hjtech/images/com.png" class width="550"> </div></center>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;欢迎来到 &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! 这是你的第一篇 post. 点击 &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; 获取更多. 如果你在使用hexo的过程中遇到任何问题，你可以去&lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt;寻找解决方案，又或者你可以到  &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;去寻求帮助.&lt;/p&gt;
+&lt;h2 id=&quot;快速开始&quot;&gt;&lt;a href=&quot;#快速开始&quot; class=&quot;headerlink&quot; title=&quot;快速开始&quot;&gt;&lt;/a&gt;快速开始&lt;/h2&gt;&lt;h3 id=&quot;创建一篇新post&quot;&gt;&lt;a href=&quot;#创建一篇新post&quot; class=&quot;headerlink&quot; title=&quot;创建一篇新post&quot;&gt;&lt;/a&gt;创建一篇新post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;更多信息: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Hexo" scheme="http://lotzxj.gitee.io/hjtech/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://lotzxj.gitee.io/hjtech/2020/09/15/test/"/>
+    <id>http://lotzxj.gitee.io/hjtech/2020/09/15/test/</id>
+    <published>2020-09-15T15:03:08.000Z</published>
+    <updated>2020-09-15T15:19:38.863Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是未了测试</p><center><div style="display:inline-block;"><img src="/hjtech/images/com.png" class width="550"> </div></center>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这是未了测试&lt;/p&gt;
+&lt;center&gt;
+&lt;div style=&quot;display:inline-block;&quot;&gt;&lt;img src=&quot;/hjtech/images/com.png&quot; class width=&quot;550&quot;&gt; &lt;/div&gt;
+&lt;/center&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>南理之行</title>
+    <link href="http://lotzxj.gitee.io/hjtech/2020/07/14/%E5%8D%97%E7%90%86%E4%B9%8B%E8%A1%8C/"/>
+    <id>http://lotzxj.gitee.io/hjtech/2020/07/14/%E5%8D%97%E7%90%86%E4%B9%8B%E8%A1%8C/</id>
+    <published>2020-07-14T05:41:47.000Z</published>
+    <updated>2020-09-15T15:19:38.863Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一波三折"><a href="#一波三折" class="headerlink" title="一波三折"></a>一波三折</h1><p>南理之行一波三折，人生不易，且行且珍惜！</p><h2 id="初来"><a href="#初来" class="headerlink" title="初来"></a>初来</h2><blockquote><p>初来时，满怀着对技术的无限憧憬，想沉下心来搞点机器人，结果全是一场空，被某陈老师骗的差点抑郁。研一上期一万字的学期报告，没有任何方向引导，自己得边上课边找方向。完了，疫情期间的三月份要求写一篇EI初稿，一直催一直催，比赛期间导师只能填某陈老师，不能肥水外人流，一次次的刷新我的三观。<a id="more"></a></p></blockquote><h2 id="返校"><a href="#返校" class="headerlink" title="返校"></a>返校</h2><blockquote><p>返校后的第一件事就是找研究方向，苦恼，某陈也一直给不出什么具体的方向，然后就摊了牌，最开始说什么也不放我走，直到我说出了他带有欺骗性质的招生。</p></blockquote><h2 id="后来"><a href="#后来" class="headerlink" title="后来"></a>后来</h2><blockquote><p>一天碰巧看见某王老师路过教研室门前，抱着试一试的态度跟某王老师交流了一下。由某王老师跟某陈老师来来回回的交流以后某陈老师还是答应让我换课题组了。后来，某陈老师先是果断将我踢出群，然后苛扣了我研一一年的导师助学金，再后来，我如愿的换到了某王的课题组。</p></blockquote><h2 id="现在"><a href="#现在" class="headerlink" title="现在"></a>现在</h2><blockquote><p>某王老师管理相对轻松，课题和方向也安排上了，决定做企业的项目，要开始做CFD的仿真啦，学习生活总算慢慢走入正轨，不管条件怎样，至少某王老师坦诚相对，感觉毕业有望了。</p></blockquote><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><blockquote><p>研究生之后，感觉步入了社会，身边充斥着狡猾和欺骗，但不管怎么说，还是要微笑面对生活。借用某王老师的一句话，人生漫长，你才多大，一定要快乐！</p></blockquote><center><div style="display:inline-block;"><img src="/hjtech/images/com.png" class width="550"> </div></center>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;一波三折&quot;&gt;&lt;a href=&quot;#一波三折&quot; class=&quot;headerlink&quot; title=&quot;一波三折&quot;&gt;&lt;/a&gt;一波三折&lt;/h1&gt;&lt;p&gt;南理之行一波三折，人生不易，且行且珍惜！&lt;/p&gt;
+&lt;h2 id=&quot;初来&quot;&gt;&lt;a href=&quot;#初来&quot; class=&quot;headerlink&quot; title=&quot;初来&quot;&gt;&lt;/a&gt;初来&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;初来时，满怀着对技术的无限憧憬，想沉下心来搞点机器人，结果全是一场空，被某陈老师骗的差点抑郁。研一上期一万字的学期报告，没有任何方向引导，自己得边上课边找方向。完了，疫情期间的三月份要求写一篇EI初稿，一直催一直催，比赛期间导师只能填某陈老师，不能肥水外人流，一次次的刷新我的三观。&lt;/p&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="研学之路" scheme="http://lotzxj.gitee.io/hjtech/tags/%E7%A0%94%E5%AD%A6%E4%B9%8B%E8%B7%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>simmechanic入门</title>
+    <link href="http://lotzxj.gitee.io/hjtech/2020/06/01/Simmechanic%E5%85%A5%E9%97%A8/"/>
+    <id>http://lotzxj.gitee.io/hjtech/2020/06/01/Simmechanic%E5%85%A5%E9%97%A8/</id>
+    <published>2020-06-01T00:15:26.000Z</published>
+    <updated>2020-09-15T15:19:38.862Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="simmechanics物理建模入门"><a href="#simmechanics物理建模入门" class="headerlink" title="simmechanics物理建模入门"></a>simmechanics物理建模入门</h1><blockquote><p>Simmechanics是simulink下物理建模库的一个子库，该库致力于机械系统运动学与动力学的研究、仿真与实现，同时可以与simulink无缝连接，实现系统+控制器的联合仿真，同时，具有与proe相似的explore window，实现高端的可视化效果。</p></blockquote><a id="more"></a><iframe height="360" width="640" src="http://mpvideo.qpic.cn/0bf2siaacaaanyad7q2tljpfbewdagjaaaia.f10002.mp4?dis_k=3396a8c971348c9f7983561ba316a9e8&dis_t=1591030800" frameborder="0" allowfullscreen></iframe><center><div style="display:inline-block;"><img src="/hjtech/images/com.png" class width="550"> </div></center>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;simmechanics物理建模入门&quot;&gt;&lt;a href=&quot;#simmechanics物理建模入门&quot; class=&quot;headerlink&quot; title=&quot;simmechanics物理建模入门&quot;&gt;&lt;/a&gt;simmechanics物理建模入门&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Simmechanics是simulink下物理建模库的一个子库，该库致力于机械系统运动学与动力学的研究、仿真与实现，同时可以与simulink无缝连接，实现系统+控制器的联合仿真，同时，具有与proe相似的explore window，实现高端的可视化效果。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="Matlab" scheme="http://lotzxj.gitee.io/hjtech/categories/Matlab/"/>
+    
+      <category term="Simulink" scheme="http://lotzxj.gitee.io/hjtech/categories/Matlab/Simulink/"/>
+    
+    
+      <category term="Matlab" scheme="http://lotzxj.gitee.io/hjtech/tags/Matlab/"/>
+    
+      <category term="Simulink" scheme="http://lotzxj.gitee.io/hjtech/tags/Simulink/"/>
+    
+  </entry>
+  
+</feed>
